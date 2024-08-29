@@ -5,9 +5,9 @@
 }
 nav ul{
 	list-style: none;
-	
+	display: flex;
 }
 nav ul li{
-	display: flexx`;
+	
 	margin-right: 1rem;
 }
