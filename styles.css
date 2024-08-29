@@ -4,10 +4,10 @@
 	padding: 10px;
 }
 nav ul{
-	list-style:none;
+	list-style: none;
 	
 }
 nav ul li{
-	display: inline;
+	display: block;
 	margin-right: 1rem;
 }
